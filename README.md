@@ -1,6 +1,6 @@
 #### A Telegram bot that provides real-time multiplayer games that can be played in any chat.
 
-You can see the bot in action by messaging [@inlinegamesbot](https://telegram.me/RocksGameBot).
+You can see the bot in action by messaging [@RocksGameBot](https://telegram.me/RocksGameBot).
 
 #### Currently available games:
 
