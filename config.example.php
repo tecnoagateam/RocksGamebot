@@ -1,8 +1,8 @@
 <?php
 /**
- * Inline Games - Telegram Bot (@inlinegamesbot)
+ *  Rocks Gami Bot - Telegram Bot (@RocksGameBot)
  *
- * (c) 2016-2021 Jack'lul <jacklulcat@gmail.com>
+ * (c) 2022 rocks
  *
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
