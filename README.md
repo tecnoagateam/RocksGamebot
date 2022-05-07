@@ -16,5 +16,5 @@ You can see the bot in action by messaging [@RocksGameBot](https://telegram.me/R
 
 ## Deploying
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jankarikiduniya/RocksGameBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AzeMusic/RocksGameBot)
 
