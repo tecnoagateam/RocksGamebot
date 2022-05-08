@@ -57,8 +57,8 @@ class StartCommand extends UserCommand
         }
 
         $text = Emoji::wavingHand() . ' ';
-        $text .= '<b>' . __('Hi!') . '</b>' . PHP_EOL;
-        $text .= __('salam, start a message with {USAGE} in any of your chats or click the {BUTTON} button and then select a chat to play in.', ['{USAGE}' => '<b>\'@' . $this->getTelegram()->getBotUsername() . ' ...\'</b>', '{BUTTON}' => '<b>\'' . __('Oyna') . '\'</b>']);
+        $text .= '<b>' . __('**Salam, Rocks Games Bot'a xoş gəldin!**') . '</b>' . PHP_EOL;
+        $text .= __(✦ 𝙾𝚢𝚞𝚗𝚊 𝙱𝚊𝚜̧𝚕𝚊𝚖𝚊𝚚 𝚞̈𝚌̧𝚞̈𝚗 𝐎𝐲𝐧𝐚 𝙳𝚞𝚢𝚖𝚎𝚜𝚒𝚗𝚒 𝚔𝚒𝚕𝚒𝚔𝚕𝚎𝚢𝚒𝚗 𝚟𝚎 𝚜𝚘𝚗𝚛𝚊 𝚘𝚢𝚗𝚊𝚖𝚊𝚚 𝚞̈𝚌̧𝚞̈𝚗 𝚜𝚘̈𝚑𝚋𝚎𝚝 𝚜𝚎𝚌̧𝚒𝚗., ['{USAGE}' => '<b>\'@' . $this->getTelegram()->getBotUsername() . ' ...\'</b>', '{BUTTON}' => '<b>\'' . __('𝐎𝐲𝐧𝐚') . '\'</b>']);
 
         $data = [
             'chat_id'                  => $chat_id,
@@ -69,7 +69,7 @@ class StartCommand extends UserCommand
                 [
                     new InlineKeyboardButton(
                         [
-                            'text'                => __('Oyna') . ' ' . Emoji::gameDie(),
+                            'text'                => __('𝐎𝐲𝐧𝐚') . ' ' . Emoji::gameDie(),
                             'switch_inline_query' => Emoji::gameDie(),
                         ]
                     ),
