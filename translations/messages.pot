@@ -107,19 +107,19 @@ msgid "You're not in this game!"
 msgstr ""
 
 #: Entity/Game.php:623 Entity/Game.php:648
-msgid "{PLAYER} quit..."
+msgid "{PLAYER} çıxın..."
 msgstr ""
 
 #: Entity/Game.php:623
-msgid "{PLAYER_HOST} is now the host."
+msgid "{PLAYER_HOST} İndi ev sənindir."
 msgstr ""
 
 #: Entity/Game.php:671 Entity/Game.php:716 Entity/Game.php:761
-msgid "You're not the host!"
+msgid "Siz ev sahibi deyilsiniz!"
 msgstr ""
 
 #: Entity/Game.php:675
-msgid "There is no player to kick!"
+msgid "Təpik vuracaq oyunçu yoxdur!"
 msgstr ""
 
 #: Entity/Game.php:685
@@ -131,7 +131,7 @@ msgstr ""
 #: Entity/Game/Rockpaperscissors.php:298
 #: Entity/Game/Rockpaperscissorslizardspock.php:243
 #: Entity/Game/Russianroulette.php:297 Entity/Game/Russianroulette.php:312
-msgid "Quit"
+msgid "Çıxın"
 msgstr ""
 
 #: Entity/Game.php:891 Entity/Game.php:967 Entity/Game/Checkers.php:284
@@ -144,7 +144,7 @@ msgstr ""
 #: Entity/Game.php:951 Entity/Game/Checkers.php:248
 #: Entity/Game/Poolcheckers.php:790 Entity/Game/Rockpaperscissors.php:277
 #: Entity/Game/Rockpaperscissorslizardspock.php:222
-msgid "Play again!"
+msgid "Yenidən Oyna!"
 msgstr ""
 
 #: Entity/Game.php:1037
