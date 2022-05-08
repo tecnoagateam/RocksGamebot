@@ -29,21 +29,21 @@ msgid "Yarat"
 msgstr ""
 
 #: Command/System/CallbackqueryCommand.php:73
-msgid "Bad request!"
+msgid "Yanlış sorğu!"
 msgstr ""
 
 #: Command/System/InlinequeryCommand.php:49 Entity/Game.php:634
 #: Entity/Game.php:708
-msgid "This game session is empty."
+msgid "Bu oyun sessiyası boşdur."
 msgstr ""
 
 #: Command/User/StartCommand.php:60
-msgid "Hi!"
+msgid "Salam, Rocks Games Bot'a xoş gəldin!"
 msgstr ""
 
 #: Command/User/StartCommand.php:61 Command/User/StartCommand.php:72
 #: Entity/Game.php:558 Entity/Game.php:787 Entity/Game.php:865
-msgid "Play"
+msgid "Oyna"
 msgstr ""
 
 #: Command/User/StartCommand.php:61
