@@ -180,17 +180,17 @@ msgid "təslim oldu"
 msgstr ""
 
 #: Entity/Game/Checkers.php:267 Entity/Game/Poolcheckers.php:809
-msgid "Vote to draw"
+msgid "Çəkmək üçün səs verin"
 msgstr ""
 
 #: Entity/Game/Checkers.php:406 Entity/Game/Poolcheckers.php:118
-msgid "You already voted!"
+msgid "Siz artıq səs verdiniz!"
 msgstr ""
 
 #: Entity/Game/Checkers.php:486 Entity/Game/Checkers.php:509
 #: Entity/Game/Checkers.php:557 Entity/Game/Poolcheckers.php:197
 #: Entity/Game/Poolcheckers.php:220 Entity/Game/Poolcheckers.php:271
-msgid "You must make a jump when possible!"
+msgid "Mümkün olduqda sıçrayış etməlisiniz!"
 msgstr ""
 
 #: Entity/Game/Checkers.php:561 Entity/Game/Checkers.php:571
@@ -198,55 +198,55 @@ msgstr ""
 #: Entity/Game/Poolcheckers.php:275 Entity/Game/Poolcheckers.php:285
 #: Entity/Game/Rockpaperscissors.php:122 Entity/Game/Russianroulette.php:127
 #: Entity/Game/Tictactoe.php:127 Entity/Game/Tictactoe.php:143
-msgid "Invalid move!"
+msgid "Yanlış hərəkət!"
 msgstr ""
 
 #: Entity/Game/Checkers.php:569 Entity/Game/Poolcheckers.php:283
-msgid "Invalid selection!"
+msgid "Yanlış seçim!"
 msgstr ""
 
 #: Entity/Game/Checkers.php:575 Entity/Game/Connectfour.php:125
 #: Entity/Game/Poolcheckers.php:289 Entity/Game/Russianroulette.php:113
 #: Entity/Game/Tictactoe.php:123
-msgid "It's not your turn!"
+msgid "Sənin növbən deyil!"
 msgstr ""
 
 #: Entity/Game/Checkers.php:594 Entity/Game/Connectfour.php:167
 #: Entity/Game/Poolcheckers.php:308 Entity/Game/Tictactoe.php:155
-msgid "Game ended with a draw!"
+msgid "Oyun heç-heçə ilə başa çatıb!"
 msgstr ""
 
 #: Entity/Game/Checkers.php:605 Entity/Game/Checkers.php:607
 #: Entity/Game/Poolcheckers.php:319 Entity/Game/Poolcheckers.php:321
-msgid "{PLAYER} voted to draw!"
+msgid "{PLAYER} heç-heçəyə səs verdi!"
 msgstr ""
 
 #: Entity/Game/Checkers.php:613 Entity/Game/Poolcheckers.php:327
-msgid "(Select the piece you want to move)"
+msgid "(Köçürmək istədiyiniz parçanı seçin)"
 msgstr ""
 
 #: Entity/Game/Checkers.php:615 Entity/Game/Poolcheckers.php:329
-msgid "(Selected: {COORDINATES})"
+msgid "(Seçildi: {COORDINATES})"
 msgstr ""
 
 #: Entity/Game/Checkers.php:618 Entity/Game/Poolcheckers.php:332
-msgid "(Make your move or select different piece)"
+msgid "(Hərəkətinizi edin və ya fərqli parça seçin)"
 msgstr ""
 
 #: Entity/Game/Checkers.php:620 Entity/Game/Poolcheckers.php:334
-msgid "(Your move must continue)"
+msgid "(Hərəkətiniz davam etməlidir)"
 msgstr ""
 
 #: Entity/Game/Rockpaperscissors.php:140 Entity/Game/Rockpaperscissors.php:144
-msgid "{PLAYER} won this round!"
+msgid "{PLAYER} bu raundda qalib gəldi!"
 msgstr ""
 
 #: Entity/Game/Rockpaperscissors.php:146
-msgid "This round ended with a draw!"
+msgid "Bu tur heç-heçə ilə başa çatıb!"
 msgstr ""
 
 #: Entity/Game/Rockpaperscissors.php:155 Entity/Game/Rockpaperscissors.php:159
-msgid "{PLAYER} won the game!"
+msgid "{PLAYER} oyunu qazandı!"
 msgstr ""
 
 #: Entity/Game/Rockpaperscissors.php:163
