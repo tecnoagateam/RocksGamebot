@@ -1,6 +1,6 @@
 #### Telegram Multiplayer İnline Games bot Azərbaycan dilində ilk.
 
- **_```Telegramda tapa bilərsiz```_** [@RocksGameAzBot](https://telegram.me/RocksGameAzBot).
+ **```Telegramda tapa bilərsiz```** [@RocksGameAzBot](https://telegram.me/RocksGameAzBot).
 
 #### ```Bot-da olan oyunlar:```
 
