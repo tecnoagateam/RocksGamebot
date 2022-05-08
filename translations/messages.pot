@@ -51,24 +51,24 @@ msgid "To begin, start a message with {USAGE} in any of your chats or click the 
 msgstr ""
 
 #: Entity/Game.php:232
-msgid "This game session has crashed."
+msgid "Bu oyun seansı qəzaya uğradı."
 msgstr ""
 
 #: Entity/Game.php:464
-msgid "This game is already created!"
+msgid "Bu oyun artıq yaradılıb!"
 msgstr ""
 
 #: Entity/Game.php:477 Entity/Game.php:545 Entity/Game.php:623
 #: Entity/Game.php:648 Entity/Game.php:685 Entity/Game.php:790
 #: Entity/Game/Russianroulette.php:166
-msgid "{PLAYER_HOST} is waiting for opponent to join..."
+msgid "{PLAYER_HOST} rəqibin qoşulmasını gözləyir..."
 msgstr ""
 
 #: Entity/Game.php:477 Entity/Game.php:545 Entity/Game.php:623
 #: Entity/Game.php:648 Entity/Game.php:685 Entity/Game.php:790
 #: Entity/Game.php:843 Entity/Game/Russianroulette.php:166
 #: Entity/Game/Russianroulette.php:318
-msgid "Join"
+msgid "Qoşulun"
 msgstr ""
 
 #: Entity/Game.php:477 Entity/Game.php:545 Entity/Game.php:623
