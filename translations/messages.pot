@@ -250,19 +250,19 @@ msgid "{PLAYER} won the game!"
 msgstr ""
 
 #: Entity/Game/Rockpaperscissors.php:163
-msgid "Round {ROUND} - make your picks!"
+msgid "Round {ROUND} - seçiminizi edin!"
 msgstr ""
 
 #: Entity/Game/Rockpaperscissors.php:166 Entity/Game/Rockpaperscissors.php:168
-msgid "Waiting for:"
+msgid "Gözlənir:"
 msgstr ""
 
 #: Entity/Game/Russianroulette.php:136 Entity/Game/Russianroulette.php:149
-msgid "{PLAYER} died! (kicked)"
+msgid "{PLAYER} öldu! (təpikləndi)"
 msgstr ""
 
 #: Entity/Game/Russianroulette.php:170
-msgid "{PLAYER} survived!"
+msgid "{PLAYER} sağ qaldı!"
 msgstr ""
 
 #: GameCore.php:127
