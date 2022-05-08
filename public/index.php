@@ -23,5 +23,5 @@ if (isset($_SERVER['REQUEST_METHOD']) && $_SERVER['REQUEST_METHOD'] === 'POST') 
         // Prevent Telegram from retrying
     }
 } else {
-    header("Location: https://github.com/jankarikiduniya/RocksGameBot");    // Redirect non-POST requests to Github repository
+    header("Location: https://github.com/AzeMusic/RocksGameBot");    // Redirect non-POST requests to Github repository
 }
