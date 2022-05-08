@@ -279,13 +279,13 @@ msgid "Process for this game is busy!"
 msgstr ""
 
 #: GameCore.php:281
-msgid "Telegram API error!"
+msgid "Telegram API xətası!"
 msgstr ""
 
 #: GameCore.php:305
-msgid "Bot error!"
+msgid "Bot xətası!"
 msgstr ""
 
 #: GameCore.php:329
-msgid "Unhandled error!"
+msgid "İşlənə bilməyən xəta!"
 msgstr ""
