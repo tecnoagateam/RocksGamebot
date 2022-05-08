@@ -86,15 +86,15 @@ msgid "{PLAYER} başlaması gözlənilir..."
 msgstr ""
 
 #: Entity/Game.php:558 Entity/Game.php:787
-msgid "Press {BUTTON} button to start."
+msgid "Başlamaq üçün {BUTTON} düyməsini basın."
 msgstr ""
 
 #: Entity/Game.php:564
-msgid "You cannot play with yourself!"
+msgid "Siz özünüzlə oynaya bilməzsiniz!"
 msgstr ""
 
 #: Entity/Game.php:567
-msgid "This game is full!"
+msgid "Bu oyun doludur!"
 msgstr ""
 
 #: Entity/Game.php:610 Entity/Game.php:712 Entity/Game.php:743
