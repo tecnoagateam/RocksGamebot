@@ -266,16 +266,16 @@ msgid "{PLAYER} survived!"
 msgstr ""
 
 #: GameCore.php:127
-msgid "Database error!"
+msgid "Verilənlər bazası xətası!"
 msgstr ""
 
 #: GameCore.php:127 GameCore.php:257 GameCore.php:281 GameCore.php:305
 #: GameCore.php:329
-msgid "Try again in a few seconds."
+msgid "Bir neçə saniyədən sonra yenidən cəhd edin."
 msgstr ""
 
 #: GameCore.php:257
-msgid "Process for this game is busy!"
+msgid "Bu oyun üçün proses məşğuldur!"
 msgstr ""
 
 #: GameCore.php:281
