@@ -103,7 +103,7 @@ msgstr ""
 #: Entity/Game/Poolcheckers.php:80 Entity/Game/Poolcheckers.php:133
 #: Entity/Game/Rockpaperscissors.php:75 Entity/Game/Russianroulette.php:75
 #: Entity/Game/Tictactoe.php:84
-msgid "You're not in this game!"
+msgid "Sən bu oyunda deyilsən!"
 msgstr ""
 
 #: Entity/Game.php:623 Entity/Game.php:648
@@ -123,7 +123,7 @@ msgid "Təpik vuracaq oyunçu yoxdur!"
 msgstr ""
 
 #: Entity/Game.php:685
-msgid "{PLAYER_GUEST} was kicked..."
+msgid "{PLAYER_GUEST} Təpikləndi..."
 msgstr ""
 
 #: Entity/Game.php:837 Entity/Game.php:885 Entity/Game.php:961
@@ -138,7 +138,7 @@ msgstr ""
 #: Entity/Game/Poolcheckers.php:826 Entity/Game/Rockpaperscissors.php:304
 #: Entity/Game/Rockpaperscissorslizardspock.php:249
 #: Entity/Game/Russianroulette.php:303
-msgid "Kick"
+msgid "Təpiklə"
 msgstr ""
 
 #: Entity/Game.php:951 Entity/Game/Checkers.php:248
