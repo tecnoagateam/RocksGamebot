@@ -148,7 +148,7 @@ msgid "Yenidən Oyna!"
 msgstr ""
 
 #: Entity/Game.php:1037
-msgid "Game session not found or expired."
+msgid "Oyun sessiyası tapılmadı və ya vaxtı bitdi."
 msgstr ""
 
 #: Entity/Game/Checkers.php:117 Entity/Game/Checkers.php:378
@@ -156,7 +156,7 @@ msgstr ""
 #: Entity/Game/Poolcheckers.php:86 Entity/Game/Poolcheckers.php:176
 #: Entity/Game/Rockpaperscissors.php:103 Entity/Game/Russianroulette.php:109
 #: Entity/Game/Tictactoe.php:119
-msgid "This game has ended!"
+msgid "Bu oyun bitdi!"
 msgstr ""
 
 #: Entity/Game/Checkers.php:129 Entity/Game/Checkers.php:154
@@ -164,19 +164,19 @@ msgstr ""
 #: Entity/Game/Connectfour.php:165 Entity/Game/Poolcheckers.php:304
 #: Entity/Game/Poolcheckers.php:306 Entity/Game/Russianroulette.php:137
 #: Entity/Game/Russianroulette.php:150 Entity/Game/Tictactoe.php:153
-msgid "{PLAYER} won!"
+msgid "{PLAYER} Qazandı!"
 msgstr ""
 
 #: Entity/Game/Checkers.php:130 Entity/Game/Checkers.php:155
-msgid "{PLAYER} surrendered!"
+msgid "{PLAYER} təslim oldu!"
 msgstr ""
 
 #: Entity/Game/Checkers.php:146 Entity/Game/Checkers.php:171
-msgid "Press the button again to surrender!"
+msgid "Təslim olmaq üçün düyməni yenidən basın!"
 msgstr ""
 
 #: Entity/Game/Checkers.php:258 Entity/Game/Poolcheckers.php:800
-msgid "Surrender"
+msgid "təslim oldu"
 msgstr ""
 
 #: Entity/Game/Checkers.php:267 Entity/Game/Poolcheckers.php:809
