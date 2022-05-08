@@ -1,6 +1,6 @@
 <?php
 /**
- *  Rocks Gami Bot - Telegram Bot (@RocksGameBot)
+ *  Rocks Gami Bot - Telegram Bot (@RocksGameAzBot)
  *
  * (c) 2022 rocks
  *
