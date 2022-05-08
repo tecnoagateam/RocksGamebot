@@ -16,16 +16,16 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 
 #: Command/Admin/CleansessionsCommand.php:149
-msgid "Create New Session"
+msgid "Yeni Sessiya Yaradın"
 msgstr ""
 
 #: Command/Admin/CleansessionsCommand.php:156
-msgid "This game session has expired."
+msgid "Bu oyun sessiyasının müddəti bitdi."
 msgstr ""
 
 #: Command/Admin/CleansessionsCommand.php:213
 #: Command/System/InlinequeryCommand.php:124 Entity/Game.php:805
-msgid "Create"
+msgid "Yarat"
 msgstr ""
 
 #: Command/System/CallbackqueryCommand.php:73
