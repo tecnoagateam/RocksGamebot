@@ -74,15 +74,15 @@ msgstr ""
 #: Entity/Game.php:477 Entity/Game.php:545 Entity/Game.php:623
 #: Entity/Game.php:648 Entity/Game.php:685 Entity/Game.php:790
 #: Entity/Game/Russianroulette.php:166
-msgid "Press {BUTTON} button to join."
+msgid "Qoşulmaq üçün {BUTTON} düyməsini toxunun."
 msgstr ""
 
 #: Entity/Game.php:558 Entity/Game.php:787
-msgid "{PLAYER_GUEST} joined..."
+msgid "{PLAYER_GUEST} qoşuldu..."
 msgstr ""
 
 #: Entity/Game.php:558 Entity/Game.php:787
-msgid "Waiting for {PLAYER} to start..."
+msgid "{PLAYER} başlaması gözlənilir..."
 msgstr ""
 
 #: Entity/Game.php:558 Entity/Game.php:787
