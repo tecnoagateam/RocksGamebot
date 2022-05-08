@@ -38,7 +38,7 @@ msgid "Bu oyun sessiyası boşdur."
 msgstr ""
 
 #: Command/User/StartCommand.php:60
-msgid "**Salam, Rocks Games Bot'a xoş gəldin!**"
+msgid "Salam!"
 msgstr ""
 
 #: Command/User/StartCommand.php:61 Command/User/StartCommand.php:72
@@ -47,7 +47,7 @@ msgid "Oyna"
 msgstr ""
 
 #: Command/User/StartCommand.php:61
-msgid "✦ 𝙾𝚢𝚞𝚗𝚊 𝙱𝚊𝚜̧𝚕𝚊𝚖𝚊𝚚 𝚞̈𝚌̧𝚞̈𝚗 𝐎𝐲𝐧𝐚 𝙳𝚞𝚢𝚖𝚎𝚜𝚒𝚗𝚒 𝚔𝚒𝚕𝚒𝚔𝚕𝚎𝚢𝚒𝚗 𝚟𝚎 𝚜𝚘𝚗𝚛𝚊 𝚘𝚢𝚗𝚊𝚖𝚊𝚚 𝚞̈𝚌̧𝚞̈𝚗 𝚜𝚘̈𝚑𝚋𝚎𝚝 𝚜𝚎𝚌̧𝚒𝚗."
+msgid "Oyuna Başlamaq üçün 'Oyna' Düyməsini klikləyin və sonra oynamaq üçün söhbət seçin."
 msgstr ""
 
 #: Entity/Game.php:232
