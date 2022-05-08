@@ -1,6 +1,6 @@
 #### Telegram Multiplayer İnline Games bot Azərbaycan dilində ilk.
 
- ```_**Telegramda tapa bilərsiz**_``` [@RocksGameAzBot](https://telegram.me/RocksGameAzBot).
+ _**```Telegramda tapa bilərsiz```**_ [@RocksGameAzBot](https://telegram.me/RocksGameAzBot).
 
 #### ```Bot-da olan oyunlar:```
 
@@ -14,7 +14,7 @@
 - Checkers
 - Pool Checkers
 
-## 🌹```Heroku Deploy```🌹
+## 🌹```Heroku Deploy```
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AzeMusic/RocksGameBot)
 
