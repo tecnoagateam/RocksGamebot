@@ -1,6 +1,6 @@
 <?php
 /**
- *  Rocks Gami Bot - Telegram Bot (@RocksGameBot)
+ *  Rocks Game Bot - Telegram Bot (@RocksGameAzBot)
  *
  * (c) 2022 rocks
  *
@@ -9,19 +9,19 @@
  */
 
 /**
- * Custom configuration
+ * Custom configuration :
  */
 
 return [
     'commands' => [
         'configs' => [
             'cleansessions' => [
-                'clean_interval' => 3600,
+                'clean_interval' => 3780,
             ],
         ],
     ],
     'webhook'  => [
-        'max_connections' => 5,
+        'max_connections' => 9,
     ],
     'logging'  => [
         'error' => DATA_PATH . '/logs/Error.log',
