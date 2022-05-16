@@ -1,6 +1,6 @@
 {
   "name": "𝐑𝐨𝐜𝐤𝐬 𝐆𝐚𝐦𝐞𝐬 🇦🇿",
-  "description": "Telegram Multiplayer İnline Games bot Azərbaycan dilində ilk.",
+  "description": "Telegram Multiplayer İnline Games bot",
   "repository": "https://github.com/AzeMusic/RocksGameBot",
   "logo": "https://telegra.ph/file/469ad9da3363eb0dc7514.jpg",
   "buildpacks": [
@@ -15,14 +15,16 @@
     "BOT_TOKEN": {
       "description": "Bot API token obtained from @BotFather",
       "value": ""
+      "required": true
     },
     "BOT_USERNAME": {
       "description": "Bot username (without '@' symbol)",
       "value": "RocksGameAzBot"
+      "required": true
     },
     "BOT_WEBHOOK": {
-      "description": "Webhook URL (YOURAPPNAME must match app name entered earlier)",
-      "value": "https://.herokuapp.com"
+      "description": "𝚊𝚟𝚝𝚘",
+      "generator": "secret"
     },
     "BOT_SECRET": {
       "description": "Secret variable used to secure the web hook",
@@ -31,7 +33,7 @@
     "BOT_ADMIN": {
       "description": "Admin's Telegram ID",
       "value": "",
-      "required": false
+      "required": true
     }
   }
 }
