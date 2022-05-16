@@ -1,5 +1,5 @@
 {
-  "name": "jacklul/inlinegamesbot",
+  "name": "jacklul/inlinegamesbot", 
   "type": "project",
   "description": "A Telegram bot providing games that can be played in any chat.",
   "license": "AGPL-3.0",
