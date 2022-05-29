@@ -57,7 +57,7 @@ class StartCommand extends UserCommand
         }
 
         $text = Emoji::wavingHand() . ' ';
-        $text .= '<b>' . __(Salam!) . '</b>' . PHP_EOL;
+        $text .= '<b>' . __('Salam') . '</b>' . PHP_EOL;
         $text .= __(Oyuna Başlamaq üçün 'Oyna' Düyməsini klikləyin və sonra oynamaq üçün söhbət seçin ., ['{USAGE}' => '<b>\'@' . $this->getTelegram()->getBotUsername() . ' ...\'</b>', '{BUTTON}' => '<b>\'' . __('Oyna') . '\'</b>']);
 
         $data = [
