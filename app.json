@@ -1,7 +1,7 @@
 {
-  "name": "𝐑𝐨𝐜𝐤𝐬 𝐆𝐚𝐦𝐞𝐬 🇦🇿",
-  "description": "Telegram Multiplayer İnline Games bot",
-  "repository": "https://github.com/AzeMusic/RocksGameBot",
+  "name": "Inline Games",
+  "description": "A Telegram bot providing games that can be played in any chat.",
+  "repository": "https://github.com/AzeMusic/RocksGamebot",
   "logo": "https://telegra.ph/file/469ad9da3363eb0dc7514.jpg",
   "buildpacks": [
     {
@@ -15,15 +15,13 @@
     "BOT_TOKEN": {
       "description": "Bot API token obtained from @BotFather",
       "value": "5348513812:AAGF8IRMKMUN-TD2T9kLNoQCPGeXhks6J2s"
-      "required": true
     },
     "BOT_USERNAME": {
       "description": "Bot username (without '@' symbol)",
       "value": "RocksGameAzBot"
-      "required": true
     },
     "BOT_WEBHOOK": {
-      "description": "app url",
+      "description": "Webhook URL (YOURAPPNAME must match app name entered earlier)",
       "value": "https:// .herokuapp.com"
     },
     "BOT_SECRET": {
@@ -33,7 +31,7 @@
     "BOT_ADMIN": {
       "description": "Admin's Telegram ID",
       "value": "1924693109",
-      "required": true
+      "required": false
     }
   }
 }
