@@ -38,7 +38,7 @@ msgid "Bu oyun sessiyası boşdur."
 msgstr ""
 
 #: Command/User/StartCommand.php:60
-msgid "Salam!"
+msgid "Salam"
 msgstr ""
 
 #: Command/User/StartCommand.php:61 Command/User/StartCommand.php:72
@@ -47,7 +47,7 @@ msgid "Oyna"
 msgstr ""
 
 #: Command/User/StartCommand.php:61
-msgid "Oyuna Başlamaq üçün 'Oyna' Düyməsini klikləyin və sonra oynamaq üçün söhbət seçin."
+msgid "Oyuna Başlamaq üçün Oyna Düyməsini klikləyin və sonra oynamaq üçün söhbət seçin."
 msgstr ""
 
 #: Entity/Game.php:232
