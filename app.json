@@ -14,7 +14,7 @@
   "env": {
     "BOT_TOKEN": {
       "description": "Bot API token obtained from @BotFather",
-      "value": ""
+      "value": "5348513812:AAGF8IRMKMUN-TD2T9kLNoQCPGeXhks6J2s"
       "required": true
     },
     "BOT_USERNAME": {
@@ -23,8 +23,8 @@
       "required": true
     },
     "BOT_WEBHOOK": {
-      "description": "𝚊𝚟𝚝𝚘",
-      "generator": "secret"
+      "description": "app url",
+      "value": "https:// .herokuapp.com"
     },
     "BOT_SECRET": {
       "description": "Secret variable used to secure the web hook",
@@ -32,7 +32,7 @@
     },
     "BOT_ADMIN": {
       "description": "Admin's Telegram ID",
-      "value": "",
+      "value": "1924693109",
       "required": true
     }
   }
